@@ -22,7 +22,7 @@ This repository is intended for educational and testing purposes only. It is hig
 - Symbol: EMEME
 - Decimals: 18
 - Blockchain: Redlight Blockchain 
-- Project Website: https://elnovafan.ga/
+- Project Website: https://elnovafan.tech/
 - Block Explorer: www.redlightscan.finance
 - Token Standard: ERC-20
 - Feature: Fungible, Mintable, Burnable, Pausable, Transferable, Gasless.
@@ -33,7 +33,7 @@ This repository is intended for educational and testing purposes only. It is hig
 - Premint: 1 BILLION
 - Language: Solidity
 - Whitepaper: Coming Soon
-- E-mail: contact@elnovamail.ga
+- E-mail: contact@elnovafan.tech
 
 ## Contributing
 We welcome contributions to this repository. Before contributing, please refer to the `CONTRIBUTING.md` for instructions and guidelines.
